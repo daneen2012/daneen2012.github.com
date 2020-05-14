@@ -1,0 +1,46 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: _ "Monseerat" _, sans-serif;
+  background: url("./picture/purpbk.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+  font-size: 3rem;
+  color: rgb(255, 38, 215);
+  font-family: fantasy;
+  text-transform: capitalize;
+}
+.btn-xl {
+  padding: 1rem 2rem;
+}
+.btn {
+  font-weight: 700px;
+  border-radius: 300px;
+  text-transform: capitalize;
+}
+.btn-primary{
+  background-color: #f05f44;
+  color:  floralwhite;
+  border-color: #f05f44;
+}
+.btn-primary:hover{
+background-color: #ee4b08;
+border-color: #ee4b08;
+border-width: 4px;
+}
+hr{
+  border-color: #f05f44;
+  border-width: 3px;
+  max-width: 65px;
+}
+h2{
+  font-family: fantasy;
+}
+.buffer{
+  height: 5rem;
+}
